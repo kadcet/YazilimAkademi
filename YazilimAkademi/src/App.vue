@@ -116,16 +116,215 @@
                   <a class="nav-link active" href="javascript:void(0);">Design</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " href="javascript:void(0);">Development</a>
+                  <a class="nav-link" href="javascript:void(0);">Development</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " href="javascript:void(0);">Business</a>
+                  <a class="nav-link" href="javascript:void(0);">Business</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link " href="javascript:void(0);">Accounting</a>
+                  <a class="nav-link" href="javascript:void(0);">Accounting</a>
                 </li>
               </ul>
             </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 p-0">
+          <div class="uk-slider-container-offset" uk-slider>
+            <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
+              <ul class="uk-slider-items uk-child-width-1-3@s uk-grid">
+                <li>
+                  <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                      <img src="@/assets/img/co-1.jpg" width="400" height="400" alt="" />
+                    </div>
+                    <div class="uk-card-body">
+                      <h3 class="uk-card-title cardTitle">ASP .Net Core Web API Kursu</h3>
+
+                      <div class="d-flex flex-row justify-content-between">
+                        <div>
+                          <i class="bi bi-eye"></i><span class="ms-1 iconText">158 İnceleme</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-clock"></i><span class="ms-1 iconText">240 Saat</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-star" style="color: #ff9b20"></i
+                          ><span class="ms-1 iconText">4.5 Puanlı Eğitim</span>
+                        </div>
+                      </div>
+
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt.
+                      </p>
+                    </div>
+                    <div class="uk-card-footer p-2">
+                      <div class="d-flex  align-items-center justify-content-between ">
+                        <span>10 Nisan 2024 Kurs Başlangıcı </span>
+                        <div class="idealButton">
+                          <span>Eğitime Katıl</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                      <img src="@/assets/img/co-2.jpg" width="400" height="400" alt="" />
+                    </div>
+                    <div class="uk-card-body">
+                      <h3 class="uk-card-title cardTitle">FrontEnd</h3>
+                      <div class="d-flex flex-row justify-content-between">
+                        <div>
+                          <i class="bi bi-eye"></i><span class="ms-1 iconText">100 İnceleme</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-clock"></i><span class="ms-1 iconText">500 Saat</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-star" style="color: #ff9b20"></i
+                          ><span class="ms-1 iconText">5.0 Puanlı Eğitim</span>
+                        </div>
+                      </div>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt.
+                      </p>
+                    </div>
+                    <div class="uk-card-footer p-2">
+                      <div class="d-flex  align-items-center justify-content-between ">
+                        <span>10 Nisan 2024 Kurs Başlangıcı </span>
+                        <div class="idealButton">
+                          <span>Eğitime Katıl</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                      <img src="@/assets/img/co-3.jpg" width="400" height="400" alt="" />
+                    </div>
+                    <div class="uk-card-body">
+                      <h3 class="uk-card-title cardTitle">BackEnd</h3>
+                      <div class="d-flex flex-row justify-content-between">
+                        <div>
+                          <i class="bi bi-eye"></i><span class="ms-1 iconText">200 İnceleme</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-clock"></i><span class="ms-1 iconText">600 Saat</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-star" style="color: #ff9b20"></i
+                          ><span class="ms-1 iconText">5.5 Puanlı Eğitim</span>
+                        </div>
+                      </div>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt.
+                      </p>
+                    </div>
+                    <div class="uk-card-footer p-2">
+                      <div class="d-flex  align-items-center justify-content-between ">
+                        <span>10 Nisan 2024 Kurs Başlangıcı </span>
+                        <div class="idealButton">
+                          <span>Eğitime Katıl</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                      <img src="@/assets/img/co-4.jpg" width="400" height="400" alt="" />
+                    </div>
+                    <div class="uk-card-body">
+                      <h3 class="uk-card-title cardTitle">Mentorlük</h3>
+                      <div class="d-flex flex-row justify-content-between">
+                        <div>
+                          <i class="bi bi-eye"></i><span class="ms-1 iconText">100 İnceleme</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-clock"></i><span class="ms-1 iconText">1 Yıl</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-star" style="color: #ff9b20"></i
+                          ><span class="ms-1 iconText">5.1 Puanlı Eğitim</span>
+                        </div>
+                      </div>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt.
+                      </p>
+                    </div>
+                    <div class="uk-card-footer p-2">
+                      <div class="d-flex  align-items-center justify-content-between ">
+                        <span>10 Nisan 2024 Kurs Başlangıcı </span>
+                        <div class="idealButton">
+                          <span>Eğitime Katıl</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                      <img src="@/assets/img/co-5.jpg" width="400" height="400" alt="" />
+                    </div>
+                    <div class="uk-card-body">
+                      <h3 class="uk-card-title cardTitle">Yazılım İngilizcesi</h3>
+                      <div class="d-flex flex-row justify-content-between">
+                        <div>
+                          <i class="bi bi-eye"></i><span class="ms-1 iconText">350 İnceleme</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-clock"></i><span class="ms-1 iconText">50 Saat</span>
+                        </div>
+                        <div>
+                          <i class="bi bi-star" style="color: #ff9b20"></i
+                          ><span class="ms-1 iconText">5.3 Puanlı Eğitim</span>
+                        </div>
+                      </div>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt.
+                      </p>
+                    </div>
+                    <div class="uk-card-footer p-2">
+                      <div class="d-flex  align-items-center justify-content-between ">
+                        <span>10 Nisan 2024 Kurs Başlangıcı </span>
+                        <div class="idealButton">
+                          <span>Eğitime Katıl</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+
+              <a
+                class="uk-position-center-left uk-position-small uk-hidden-hover"
+                style="border-radius: 99px; background-color: #fc6e51; opacity: 0.5"
+                href
+                uk-slidenav-previous
+                uk-slider-item="previous"
+              ></a>
+              <a
+                class="uk-position-center-right uk-position-small uk-hidden-hover"
+                style="border-radius: 99px; background-color: #fc6e51; opacity: 0.5"
+                href
+                uk-slidenav-next
+                uk-slider-item="next"
+              ></a>
+            </div>
+
+            <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
           </div>
         </div>
       </div>
@@ -248,23 +447,32 @@
 }
 
 .side-cates .nav-link {
-    padding: 10px 15px !important;
-    border: none !important;
-    background: transparent !important;
-    color: #3f4752;
-    opacity: 1;
+  padding: 10px 15px !important;
+  border: none !important;
+  background: transparent !important;
+  color: #3f4752;
+  opacity: 1;
 }
 .sec-right a {
-    font-size: 14px;
-    font-weight: 600;
-    text-decoration: none;
- 
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
 }
 .sec-right a:hover {
-  color: #da0b4e; 
+  color: #fc6e51;
 }
 
-.nav-tabs.side-cates .nav-item.show .nav-link, .nav-tabs.side-cates .nav-link.active {
-    color: #da0b4e;
+.nav-tabs.side-cates .nav-item.show .nav-link,
+.nav-tabs.side-cates .nav-link.active {
+  color: #fc6e51;
+}
+
+.cardTitle {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.iconText {
+  font-size: 14px;
 }
 </style>
