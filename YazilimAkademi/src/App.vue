@@ -55,7 +55,7 @@
 
   <div style="background-color: #052044">
     <div
-      class="image-cover hero_banner shadow rlt"
+      class="image-cover hero_banner shadow"
       style="background: url(/src/assets/img/banner-2.jpg) no-repeat"
     ></div>
   </div>
@@ -161,7 +161,7 @@
                       </p>
                     </div>
                     <div class="uk-card-footer p-2">
-                      <div class="d-flex  align-items-center justify-content-between ">
+                      <div class="d-flex align-items-center justify-content-between">
                         <span>10 Nisan 2024 Kurs Başlangıcı </span>
                         <div class="idealButton">
                           <span>Eğitime Katıl</span>
@@ -195,7 +195,7 @@
                       </p>
                     </div>
                     <div class="uk-card-footer p-2">
-                      <div class="d-flex  align-items-center justify-content-between ">
+                      <div class="d-flex align-items-center justify-content-between">
                         <span>10 Nisan 2024 Kurs Başlangıcı </span>
                         <div class="idealButton">
                           <span>Eğitime Katıl</span>
@@ -229,7 +229,7 @@
                       </p>
                     </div>
                     <div class="uk-card-footer p-2">
-                      <div class="d-flex  align-items-center justify-content-between ">
+                      <div class="d-flex align-items-center justify-content-between">
                         <span>10 Nisan 2024 Kurs Başlangıcı </span>
                         <div class="idealButton">
                           <span>Eğitime Katıl</span>
@@ -263,7 +263,7 @@
                       </p>
                     </div>
                     <div class="uk-card-footer p-2">
-                      <div class="d-flex  align-items-center justify-content-between ">
+                      <div class="d-flex align-items-center justify-content-between">
                         <span>10 Nisan 2024 Kurs Başlangıcı </span>
                         <div class="idealButton">
                           <span>Eğitime Katıl</span>
@@ -297,7 +297,7 @@
                       </p>
                     </div>
                     <div class="uk-card-footer p-2">
-                      <div class="d-flex  align-items-center justify-content-between ">
+                      <div class="d-flex align-items-center justify-content-between">
                         <span>10 Nisan 2024 Kurs Başlangıcı </span>
                         <div class="idealButton">
                           <span>Eğitime Katıl</span>
@@ -330,11 +330,270 @@
       </div>
     </div>
   </section>
+
+  <div class="container-fluid py-5" style="background-color: #f4f8fa">
+    <div class="row">
+      <div class="col-12">
+        <div class="container">
+          <div class="row mb-2">
+            <div class="col-12">
+              <h3 class="m-0 py-1" style="font-size: 18px; font-weight: 700">
+                Sıkca Sorulan Sorular
+              </h3>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <div
+                class="container"
+                style="
+                  border-radius: 10px;
+                  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                  background-color: white;
+                "
+              >
+                <div class="row">
+                  <div class="col-12 p-0">
+                    <img class="imgTopRadius" src="@/assets/img/res1.jpg" />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-12">
+                    <h3 class="cardTitle mt-3 ms-2">
+                      The National Minimum Wage Is An Important Part
+                    </h3>
+                  </div>
+                </div>
+
+                <div class="row pb-2 border border-bottom pt-2">
+                  <div class="col-2">
+                    <img class="ms-2 rounded-5" src="@/assets/img/avatar1.jpg" />
+                  </div>
+                  <div class="col-10 d-flex align-items-center">
+                    <span style="font-size: 14px; font-weight: 400; color: #7182a7"
+                      >Adam Willsone</span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-4">
+              <div
+                class="container"
+                style="
+                  border-radius: 10px;
+                  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                  background-color: white;
+                "
+              >
+                <div class="row">
+                  <div class="col-12 p-0">
+                    <img class="imgTopRadius" src="@/assets/img/res2.jpg" />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-12">
+                    <h3 class="cardTitle mt-3 ms-2">
+                      The National Minimum Wage Is An Important Part
+                    </h3>
+                  </div>
+                </div>
+
+                <div class="row pb-2 border border-bottom pt-2">
+                  <div class="col-2">
+                    <img class="ms-2 rounded-5" src="@/assets/img/avatar1.jpg" />
+                  </div>
+                  <div class="col-10 d-flex align-items-center">
+                    <span style="font-size: 14px; font-weight: 400; color: #7182a7"
+                      >Adam Willsone</span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-4">
+              <div
+                class="container"
+                style="
+                  border-radius: 10px;
+                  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                  background-color: white;
+                "
+              >
+                <div class="row">
+                  <div class="col-12 p-0">
+                    <img class="imgTopRadius" src="@/assets/img/res3.jpg" />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-12">
+                    <h3 class="cardTitle mt-3 ms-2">
+                      The National Minimum Wage Is An Important Part
+                    </h3>
+                  </div>
+                </div>
+
+                <div class="row pb-2 border border-bottom pt-2">
+                  <div class="col-2">
+                    <img class="ms-2 rounded-5" src="@/assets/img/avatar1.jpg" />
+                  </div>
+                  <div class="col-10 d-flex align-items-center">
+                    <span style="font-size: 14px; font-weight: 400; color: #7182a7"
+                      >Adam Willsone</span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid mb-5 mt-5 py-5 confluid">
+    <div class="confluid-opacity"></div>
+
+    <div
+      class="d-flex justify-content-center align-items-center flex-column"
+      style="position: relative"
+    >
+      <h2 class="mb-0" style="color: #fff; font-weight: 600; font-size: 30px; line-height: 36px">
+        Join Thousand Of Happy Students!
+      </h2>
+      <p style="color: #fff">Subscribe our newsletter & get latest news and updation!</p>
+
+      <div class="d-flex pt-2 pb-2 ps-2 pe-2" style="background-color: #fff; border-radius: 5px">
+        <input
+          type="email"
+          placeholder="E Mail Adresi Yazın"
+          required="true"
+          style="padding: 20px 20px 18px; border: 0; outline: none"
+        />
+        <input
+          type="submit"
+          value="Get Started"
+          style="padding: 14px 25px 14px; background-color: #fc6e51; border: 0; border-radius: 5px"
+        />
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-sm-4 col-md-3 col-lg-3 col-12">
+        <img src="./assets/img/logo.png" class="img-fluid" style="height: 36px" alt="" />
+        <p class="footer-p">Güneştepe Mahallesi Reyyan Sokak BURSA</p>
+        <P class="footer-p">+ 0244 444 44 44</P>
+        <P class="footer-p">uergun@gmail.com</P>
+      </div>
+      <div class="col-sm-4 col-md-3 col-lg-2 col-12">
+        Navigations
+        <ul class="footer-p p-0 mt-3" style="list-style-type: none">
+          <li class="mb-2">Hakkımızda</li>
+          <li class="mb-2">SSS</li>
+          <li class="mb-2">Referanslarımız</li>
+          <li class="mb-2">İletişim</li>
+          <li>Blog</li>
+        </ul>
+      </div>
+      <div class="col-sm-4 col-md-3 col-lg-2 col-12">
+        New Categories
+        <ul class="footer-p p-0 mt-3" style="list-style-type: none">
+          <li class="mb-2">Tasarım</li>
+          <li class="mb-2">İşletme</li>
+          <li class="mb-2">Yazılım</li>
+          <li class="mb-2">WordPress</li>
+          <li>PHP</li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-md-3 col-lg-2 col-12">
+        Help & Support
+        <ul class="footer-p p-0 mt-3" style="list-style-type: none">
+          <li class="mb-2">Dökümantasyon</li>
+          <li class="mb-2">whatsap</li>
+          <li class="mb-2">Bize Ulaşın</li>
+          <li class="mb-2">Gizlilik</li>
+          <li>SSS</li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-md-12 col-lg-3 col-12 ">
+        Download Apps
+        <div
+          class="d-flex border border-1 p-3 justify-content-start align-items-center mt-3"
+          style="width: 100%; border-radius: 5px"
+        >
+          <div class="me-3">
+            <i class="bi bi-google" style="font-size: 26px; color: #da0b4e"></i>
+          </div>
+          <div class="d-flex flex-column">
+            <div class="footer-p" style="font-size: 18px; font-weight: 600; color: #4a5682">
+              Google Play
+            </div>
+            <div class="footer-p">Get It Now</div>
+          </div>
+        </div>
+        <div
+          class="d-flex border border-1 p-3 justify-content-start align-items-center mt-3 mb-5"
+          style="width: 100%; border-radius: 5px"
+        >
+          <div class="me-3">
+            <!-- <i class="bi bi-google" style="font-size: 26px; color: #da0b4e;"></i> -->
+            <i class="bi bi-apple" style="font-size: 26px; color: #da0b4e"></i>
+          </div>
+          <div class="d-flex flex-column">
+            <div class="footer-p" style="font-size: 18px; font-weight: 600; color: #4a5682">
+              App Store
+            </div>
+            <div class="footer-p">Now it Available</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="border-top pb-4">
+    
+    <div class="container mt-3">
+      <div class=" row justify-content-between">
+        <div class="col-6" style="color: #4d5868;">
+          @ Idealworks Bilişim Hizmetleri
+        </div>
+        <div class="col-6 text-end"> 
+          <i class="bi bi-facebook me-4"></i>
+          <i class="bi bi-twitter-x me-4"></i>
+          <i class="bi bi-instagram me-4"></i>
+          <i class="bi bi-linkedin me-4"></i>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 
 <style scoped>
 .header {
   background-color: #fff;
+}
+
+.confluid {
+  background: url(assets/img/banner-2.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.confluid-opacity {
+  background-color: #052044;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .idealButton {
@@ -474,5 +733,16 @@
 
 .iconText {
   font-size: 14px;
+}
+
+.imgTopRadius {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.footer-p {
+  /* style="color: #858b9f; font-size: 13px;" */
+  color: #858b9f;
+  font-size: 13px;
 }
 </style>
